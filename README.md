@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p align="center">
+  <img src="http://badge42.herokuapp.com/api/stats/etaranti?darkmode=false" width="500" />
+</p>
